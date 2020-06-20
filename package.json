@@ -1,0 +1,8 @@
+{
+  "name": "game2048",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jquery": "^3.3.38"
+  }
+}
